@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akepo225.github.io/storeshelf/sitemap.xml
